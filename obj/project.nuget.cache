@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1rivAMB+nNi7H91zHFgQf06VOf630Dh/XMaI7apO5sP/m4+gISvdPFEP4W2Dvbzu8RXhiIug99r2/ESUjUC7w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\DotNet5Microservice\\DotNet5Microservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EFICAdmin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\EFICAdmin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\EFICAdmin\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\EFICAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\EFICAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\EFICAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
